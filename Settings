@@ -19,7 +19,7 @@
   "javascript.validate.enable": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "liveSassCompile.settings.formats": [
+  "liveSassCompile.settings.formats": [ 
     {
       "format": "expanded",
       "extensionName": ".css",
