@@ -1,5 +1,5 @@
-# Minimalist Compact-VS-code-theme
-A minimalist compact VS Code layout setup.
+# Minimalist Compact VS code theme
+A minimalist compact Visual Studio Code layout setup.
 
 ![SCR-20240810-nsnh](https://github.com/user-attachments/assets/ab5945e0-8c58-4ed5-a197-c7d6e4ee1405)
 
