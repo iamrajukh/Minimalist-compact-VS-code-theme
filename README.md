@@ -3,7 +3,7 @@ A minimalist-compact Visual Studio Code layout setup.
 
 ![SCR-20240810-nsnh](https://github.com/user-attachments/assets/ab5945e0-8c58-4ed5-a197-c7d6e4ee1405)
 
-![SCR-20240810-nsnh](https://github.com/user-attachments/assets/98412e94-191c-439b-b833-dea1cfc5180a)
+![SCR-20240812-bisa](https://github.com/user-attachments/assets/42106e04-eb64-42c5-816c-d8c46c9c28dc)
 
 ![SCR-20240810-ntbt](https://github.com/user-attachments/assets/9a0c90e6-6195-4d6d-9379-d24aa3b0b8db)
 
